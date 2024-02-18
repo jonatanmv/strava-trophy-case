@@ -1,2 +1,4 @@
 # Strava Trophy Case
-Just a list some sport challengers... https://jonatanmv.github.io/trophy-case/
+Just a list some sport challengers...
+
+[Trophy Case](https://jonatanmv.github.io/trophy-case/)
