@@ -10,7 +10,9 @@ body {
 
 .grid {
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  max-width: 1200px;
+  margin: 0 auto;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
   grid-auto-rows: 1fr;
   column-gap: 10px;
   row-gap: 10px;
@@ -26,5 +28,5 @@ body {
 
 .grid>div img {width: 120px; padding-top:10px;}
 .grid>div div {padding: 3px;}
-.grid>div div:nth-child(2) {color: black; font-size: 1.7vw; font-weight: bold; text-size-adjust: auto;}
-.grid>div div:nth-child(3) {color: darkgrey; font-size: 1.4vw; line-height: 1.4;}
+.grid>div div:nth-child(2) {color: black; font-size: 12pt; font-weight: bold; text-size-adjust: auto;}
+.grid>div div:nth-child(3) {color: darkgrey; font-size: 10pt; line-height: 1.4;}
