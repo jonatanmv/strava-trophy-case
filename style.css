@@ -21,14 +21,10 @@ body {
 .grid>div  {
   background-color: whitesmoke;
   border: 1px solid rgba(0, 0, 0, 0.8);
-  padding: 10px;
   text-align: center;
 }
 
-.grid>div img {
-  width: 120px;
-}
-
-.grid>div div { padding: 3px; }
-.grid>div div:nth-child(2) { color: black; font-size: 1.7vw; font-weight: bold; text-size-adjust: auto;}
-.grid>div div:nth-child(3) { color: darkgrey; font-size: 1.4vw; line-height: 1.4;}
+.grid>div img {width: 120px; padding-top:10px;}
+.grid>div div {padding: 3px;}
+.grid>div div:nth-child(2) {color: black; font-size: 1.7vw; font-weight: bold; text-size-adjust: auto;}
+.grid>div div:nth-child(3) {color: darkgrey; font-size: 1.4vw; line-height: 1.4;}
