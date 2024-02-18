@@ -1,1 +1,1 @@
-# strava-trophy-case
+# Strava Trophy Case
