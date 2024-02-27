@@ -8,6 +8,14 @@ body {
   font-size: larger ;
 }
 
+h1 {
+  text-align: center;
+}
+
+h2 {
+  
+}
+
 .grid {
   display: grid;
   max-width: 1200px;
