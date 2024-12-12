@@ -1,5 +1,5 @@
 # Trophy Case
-Just a list [sport challengers](https://jonatanmv.github.io/trophy-case/) ...
+Just a list of sport challengers...
 
 https://jonatanmv.github.io/trophy-case/
 
