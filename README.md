@@ -1,6 +1,5 @@
 # Trophy Case
-Just a list of sport challengers...
+Just a list of rehabilitation challengers...
 
-https://jonatanmv.github.io/trophy-case/
 
 
